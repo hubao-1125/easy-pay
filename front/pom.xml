@@ -5,8 +5,8 @@
 
 
     <parent>
-        <artifactId>easy-pay</artifactId>
         <groupId>io.github</groupId>
+        <artifactId>easy-pay</artifactId>
         <version>${easy-pay.version}</version>
     </parent>
 
