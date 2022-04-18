@@ -7,7 +7,8 @@
     <groupId>io.github</groupId>
     <artifactId>easy-pay</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>${easy-pay.version}</version>
+
     <modules>
         <module>pay</module>
         <module>pay-config</module>
@@ -18,6 +19,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <easy-pay.version>1.0.0-SNAPSHOT</easy-pay.version>
     </properties>
 
 </project>
