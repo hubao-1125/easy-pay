@@ -9,12 +9,6 @@
     <packaging>pom</packaging>
     <version>${easy-pay.version}</version>
 
-    <modules>
-        <module>pay</module>
-        <module>pay-config</module>
-        <module>front</module>
-        <module>common-utils</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
