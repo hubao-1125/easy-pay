@@ -14,8 +14,6 @@
         <module>pay-config</module>
         <module>front</module>
         <module>common-utils</module>
-        <module>front/pay-front</module>
-        <module>front/pay-config-front</module>
     </modules>
 
     <properties>
